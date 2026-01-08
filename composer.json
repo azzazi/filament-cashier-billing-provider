@@ -17,6 +17,13 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/azzazi/filament-cashier-billing-provider.git"
+    }
+],
+
     "require": {
         "php": "^8.2",
         "filament/filament": "^4.0",
