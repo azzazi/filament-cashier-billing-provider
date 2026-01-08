@@ -23,6 +23,9 @@
         "url": "https://github.com/azzazi/filament-cashier-billing-provider.git"
     }
 ],
+"minimum-stability": "dev",
+"prefer-stable": true
+
 
     "require": {
         "php": "^8.2",
